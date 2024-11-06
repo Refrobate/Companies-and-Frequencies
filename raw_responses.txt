@@ -1,0 +1,659 @@
+A.T. Kearney	2
+4flow	1
+A&M	1
+A.T. Kearney	2
+A.T. Kearney	2
+A.T. Kearney	3
+A.T. Kearney	3
+ACC	1
+accenture	9
+Accenture	38
+accenture	4
+Accenture	18
+accenture	7
+Accenture	25
+accenture	8
+Accenture	28
+accenture	4
+Accenture	20
+accenture	3
+Accenture	11
+accenture	3
+Accenture	3
+accenture	1
+Accenture	2
+Accenture	2
+Accenture	3
+Accenture , Deloitte, KPMG, PWC	1
+Accenture, Avanade, E&Y, McKinsey, BCG, Bain, EPAM, Cognizant, Deloitte, Globant, et al.	1
+Accenture, deloitte, PWC, KPMG, EY, Bain, McKinsey, BCG	1
+Acenture	1
+ADL	1
+Advancy	1
+Advancy	2
+Advancy	2
+advancy	1
+Alix partners	1
+Alix Partners	1
+Alix partners	1
+alix partners	1
+AlixPartners	1
+AlixPartners	3
+AlixPartners	3
+AlixPartners	2
+Alvarez	1
+Alvarez & Marsal	2
+alvarez & marsal	2
+alvarez & marsal	3
+alvarez and marsal	1
+Alvarez Marsal	1
+Amazon	1
+Anderson	1
+Anderson	1
+Armanino	1
+Arthur D Little	1
+Axion	1
+bain	5
+Bain	24
+bain	6
+Bain	41
+bain	8
+Bain	20
+bain	4
+Bain	16
+bain	6
+Bain	7
+bain	2
+Bain	2
+Bain	3
+Bain	1
+Bain	1
+Bain & Company	15
+Bain & Company	13
+Bain & Company	5
+Bain & Company	3
+Bain & Company	2
+Bain & Company	1
+Bain (Bain & Company)	2
+Bain (Bain & Company)	2
+bain and company	4
+Bain and company	2
+bain and company	2
+Bain and company	2
+Bain and Company	1
+bain and company	5
+bain and company	2
+bain and company	2
+bain and company	3
+bain and company	2
+bain and company	1
+Bain Capital Private Equity	1
+Bain Capital Private Equity	1
+Bain Capital Private Equity	1
+Bain Capital Private Equity	1
+bain company	1
+Bain company	2
+Bain&Company	1
+Bain,	1
+Bain, Alvarez, Accenture, EY, McKinsey, Deliotte	1
+Bain, McKinsey, BCG, Accenture, PwC	1
+Bain, McKinsey, BCG, Deloitte, KPMG, PWC, Arthur Anderson	1
+Bain, McKinsey, EY, Deloitte	1
+Bain, PWC, Booz Allen, Deloitte, E&Y, Kearney	1
+Bane and Company	1
+Battelle	1
+bcg	2
+Bcg	5
+BCG	20
+bcg	2
+Bcg	2
+BCG	19
+bcg	3
+Bcg	2
+BCG	23
+bcg	4
+Bcg	1
+BCG	11
+bcg	2
+BCG	10
+bcg	2
+BCG	4
+bcg	2
+BCG	2
+BCG, McKinsey, LEK, Bain	1
+BCP	1
+BDO	1
+BDO	1
+Big Four	1
+Black and veatch	1
+Booz	2
+Booz Allen	1
+Booz Allen	2
+booz allen	1
+Booz allen	1
+Booz Allen Hamilton	2
+BOOZ ALLEN HAMILTON	1
+Booz Allen Hamilton	1
+Booz Allen Hamilton	2
+Booze	1
+Booze Allen	1
+Boston	1
+boston consulting	1
+Boston Consulting	1
+Boston Consulting	1
+Boston consulting	1
+Boston Consulting	1
+boston consulting	2
+boston consulting	1
+boston consulting company	1
+boston consulting group	1
+Boston consulting group	2
+Boston Consulting Group	15
+boston consulting group	4
+Boston consulting group	6
+Boston Consulting Group	12
+boston consulting group	3
+Boston consulting group	5
+Boston Consulting Group	18
+Boston consulting group	4
+Boston Consulting Group	6
+boston consulting group	3
+Boston Consulting Group	5
+boston consulting group	3
+Boston consulting group	1
+boston consulting group	1
+Boston consulting group	1
+Boston Consulting Group	1
+Boston Consulting Group (BCG)	2
+Boston Consulting Group (BCG)	2
+Boston Consulting Group (BCG)	1
+Boston Consulting Group (BCG)	1
+boston group	1
+Boston, Deloitte, KPMG, Accenture, EY, PWC, McKinsey, Kearney, Bain	1
+Brevet	1
+Burns and Mc	1
+Capgemeni	1
+Capgemeni	1
+Capgemini	2
+capgemini	1
+Capgemini	1
+Capgemini	2
+Capgemini	3
+Capgemini	2
+Capgemini	1
+Capgemini	1
+CapGemini	2
+CapGemini	1
+Capgemini	1
+Capgemini Invent	1
+capgemini invent	1
+Capgemini Invent	1
+Capgemini Invent	1
+capgemini invent	1
+Cartesian	1
+Centrica	1
+cgi	1
+CGI	1
+CGI	1
+cgi	1
+CGI	1
+Charles River Associates	1
+Chartis	2
+ClearView	1
+Cognizant	1
+cognizant	2
+Cognizant	10
+cognizant	2
+Cognizant	10
+cognizant	1
+Cognizant	8
+Cognizant	5
+cognizant	1
+Cognizant	4
+cognizant	1
+Cognizant	2
+cognizant	1
+Cognizant	1
+Cohn Reznick	1
+collinson	1
+collinson grant	2
+collinson grant	1
+Davis	1
+Delloite	2
+Delloite	1
+Delloite	1
+Delloitte	1
+Delloitte	1
+deloitte	12
+Deloitte	38
+deloitte	13
+Deloitte	32
+deloitte	6
+Deloitte	36
+deloitte	8
+Deloitte	33
+deloitte	6
+Deloitte	18
+deloitte	5
+Deloitte	7
+Deloitte	6
+deloitte	2
+Deloitte	2
+Deloitte	1
+Deloitte	1
+Deloitte  Accenture  PricewaterhouseCoopers   EY  KPMG	1
+Deloitte Consulting	3
+Deloitte Consulting	2
+Deloitte Consulting	2
+Deloitte Consulting	3
+Deloitte Consulting	1
+Deloitte Consulting	1
+Deloitte Kpmg pwc mckinsey bcg guidehouse erm wsp	1
+Deloitte,	1
+Deloitte, Bain, E&Y, Accenture, McKinsey, KPMG, PWC	1
+Deloutte	1
+Deouitte	1
+Digital Litmus	1
+E & Y	1
+E&Y	1
+E&Y	2
+E&Y	1
+E&Y	2
+Earnst and young	1
+ECG, Chartis, KaufmanHall, BCG. PwC, Deloitte, McKinsey, Bain	1
+efeso management	1
+efeso management	1
+EFESO management	1
+efeso management	1
+efeso management consultants	1
+elixirr	1
+Elixirr	1
+Elixirr	1
+Elixirr	1
+elixirr	1
+EN	1
+Endava	1
+enfuse group	1
+EPAM	1
+Equitable	1
+ERM	1
+Ernst & Young	3
+Ernst & Young	3
+Ernst & Young	3
+Ernst & Young	7
+Ernst & Young	3
+Ernst & Young (EY)	1
+Ernst & Young (EY) Advisory	1
+Ernst and young	1
+ernst and young	1
+ernst and young	1
+ernst and young	1
+ernst and young	1
+Ernst and Young	1
+Ernst Young	1
+ey	1
+EY	11
+ey	2
+EY	23
+ey	2
+EY	35
+ey	3
+EY	37
+ey	7
+Ey	1
+EY	12
+ey	1
+EY	11
+ey	3
+Ey	2
+EY	4
+Ey	1
+EY	2
+EY	1
+EY (Ernst & Young)	3
+EY (Ernst & Young)	1
+EY (Ernst & Young)	1
+EY (Ernst & Young)	2
+EY Parthenon	1
+EY, BCG, PwC, Deloitte, McKinsey, Accenture, Bain	1
+EY, Parthenon, Deloitte, McKinsey, BCG, Kodiak, Crowe, PWC	1
+EY, PWC, KPMG, Deloitte, McKinsey, Bain, BCG, LEK, many more	1
+FTI	1
+FTI	1
+FTI	1
+fti	1
+Gartner	1
+Gartner	2
+Gartner,	1
+Gartner, KornFerry, SpencerStuart, McKinley	1
+GCP	1
+Genesis	1
+Genesys	1
+Globant	1
+Goldman	1
+Grand Thronton	1
+Grant thornton	1
+Grant Thornton	1
+Grant Thortom	1
+grant thorton	1
+Guide house	1
+Guidehouse	2
+Hub	1
+huron	1
+Huron	1
+Huron, EY, Deloitte	1
+IBM	16
+IBM	14
+ibm	1
+IBM	9
+ibm	2
+IBM	12
+ibm	3
+Ibm	1
+IBM	8
+ibm	2
+IBM	6
+ibm	1
+IBM	1
+IBM	1
+Ibm	1
+IBM	1
+IBM Consulting	1
+IBM global services	1
+IBM Global Services	1
+IBM Global Services	1
+IBM Global Services	1
+Icf	1
+Icf	1
+Infosys	1
+Infosys	2
+infosys	1
+Infosys	1
+IQVIA, Syneos Heath, Tailwind Capital, Domain Associates	1
+Kaufman Hall	1
+Kearney	6
+Kearney	5
+Kearney	3
+kearney	2
+Kearney	5
+Kearney	4
+Kearney	2
+kearney	1
+Kearny	1
+Korn Ferry, FTI, Bain, BCG, PWC, etc.	1
+KPMB	1
+kpmg	4
+Kpmg	3
+KPMG	14
+kpmg	2
+Kpmg	1
+KPMG	23
+kpmg	10
+Kpmg	1
+KPMG	35
+kpmg	6
+KPMG	26
+kpmg	4
+KPMG	23
+kpmg	3
+KPMG	11
+kpmg	3
+Kpmg	2
+KPMG	2
+kpmg	1
+KPMG	2
+kpmg	1
+KPMG	2
+kpmg	1
+Kpmg	1
+KPMG Advisory	2
+KPMG Advisory	1
+KPMG Advisory	1
+KPMG McKenzie accenture Grant, Thorton, ENY Bain goldman	1
+KPMG, Accenture, Deloitte	1
+KPMG, Accenture, McKinsey, Boston Consulting,	1
+Kyndryl	1
+L.E.K. Consulting	3
+L.E.K. Consulting	1
+L.E.K. Consulting	1
+LanciaConsult	1
+LEK	3
+LEK	1
+LEK	1
+LEK	2
+LEK	1
+Levinson	1
+Main	1
+Manatt	1
+MBB	1
+Mc Kinsey	1
+mckensey	1
+McKensy, BCG, Bain, Kearney, EY, PwC, KPMG, Slalom	1
+MCKinley	1
+McKinnsey	1
+mckinsey	9
+Mckinsey	10
+McKinsey	34
+mckinsey	3
+Mckinsey	9
+McKinsey	26
+mckinsey	3
+Mckinsey	10
+McKinsey	27
+mckinsey	7
+Mckinsey	6
+McKinsey	14
+mckinsey	3
+Mckinsey	11
+McKinsey	14
+mckinsey	4
+Mckinsey	3
+McKinsey	3
+mckinsey	3
+Mckinsey	1
+McKinsey & Co , BCG, Bain & Co	1
+Mckinsey & Company	1
+McKinsey & Company	9
+McKinsey & Company	3
+McKinsey & Company	2
+McKinsey & Company	2
+McKinsey & Company	2
+McKinsey & Company	1
+McKinsey & Company, Boston Consulting Group (BCG), Bain & Company, Deloitte Consulting, PwC Advisory (PricewaterhouseCoopers), EY Advisory (Ernst & Young), Accenture	1
+McKinsey and Company	1
+McKinsey Bain bcg cap Gemini lek zs Deloitte	1
+McKinsey BCG Bain Deloitte PwC Accenture	1
+McKinsey BCG Deloitte Bain	1
+McKinsey, Accenture, BCG	1
+McKinsey, Accenture, Bearing Point, PWC, KPMG	1
+McKinsey, Bain, BCG, BCG X, Deloitte, Accenture	1
+McKinsey, Bain, bcg, Deloitte, Accenture	1
+McKinsey, Bain, BCG, EY Parthenon, Kearney, Accenture, Booz Allen Hamilton, Deloitte, PwC, BRG, Guidehouse	1
+McKinsey, Bain, Cap Gemini, KPMG, and accenture	1
+McKinsey, BCG, Accenture, Bain, Guidehouse, Chartis, ECG, Manatt, Deloitte, PWC,	1
+McKinsey, BCG, Accenture, Deloitte, PwC	1
+McKinsey, BCG, Bain, Deloitte, Accenture, PwC, Capgemini	1
+McKinsey, BCG, Bain, EY, Accenture, Booz Allen, Deloitte, KPMG, PWC	1
+McKinsey, Boston Consulting Group, Deloitte, P & C, KPMG, BAIN	1
+McKinsey, Deloitte, E&Y, ECG, Accenture, Boston Consulting, Chartis, etc	1
+McKinsey, Deloitte, E&Y, IBM, Accenture, BCG	1
+McKinsey,BCG, Bain, Deloitte, PwC, EY, KPMG, Accenture	1
+Mercer	1
+Mercer	1
+Mercer	1
+Mercer	1
+Mercer	1
+Metyis	1
+metyis	2
+Metyis	1
+Mikensy	1
+Monitor	1
+Moss Adams	1
+Navigant	1
+Ncc	1
+Ncc	1
+next continent	1
+next continent	1
+Nextcontinent	1
+nextcontinent	1
+nextcontinent	3
+Nextcontinent	1
+Nextcontinent	1
+Nextcontinent	1
+nextcontinent	2
+Nextcontinent	1
+nextcontinent	1
+north highland	22
+North highland	15
+North Highland	12
+north highland	18
+North highland	2
+North Highland	5
+north highland	5
+North highland	1
+North Highland	2
+north highland	4
+North Highland	7
+north highland	2
+North highland	1
+North Highland	6
+north highland	1
+North Highland	1
+Nous Group	1
+Ntt	1
+Ntt	1
+OC&C	1
+OC&C Strategy Consultants	1
+Oliver	1
+Oliver Wyman	2
+Oliver Wyman	5
+Oliver Wyman	4
+oliver wyman	1
+Oliver Wyman	2
+oliver wyman	2
+Oliver Wyman	1
+oliver wyman	2
+Oliver wyman	1
+Oliver Wyman	3
+Oliver Wyman	1
+Oliver wyman	1
+Oliver Wyman	1
+Opportune	1
+Oracle	1
+P&C global	1
+P&W	1
+P3	1
+Paraveda	1
+Parthenon	1
+Persistent systems	1
+Point B	1
+Price waterhouse coopers	1
+PriceWater Cooper	1
+PricewaterhouseCooper	1
+PricewaterhouseCoopers	2
+PricewaterhouseCoopers	2
+PricewaterhouseCoopers	1
+PricewaterhouseCoopers	2
+PricewaterhouseCoopers (PwC)	1
+PricewaterhouseCoopers (PwC)	1
+PricewaterhouseCoopers (PwC)	1
+Protiviti	1
+Protiviti	1
+Protiviti	2
+Protivity	2
+Protivity	1
+pwc	4
+Pwc	3
+PwC	1
+PWC	5
+pwc	9
+Pwc	7
+PwC	3
+PWC	8
+pwc	7
+Pwc	3
+PwC	9
+PWc	1
+PWC	10
+pwc	6
+Pwc	2
+PwC	9
+PWC	12
+pwc	7
+Pwc	4
+PwC	4
+PWC	6
+pwc	2
+Pwc	4
+PwC	2
+PWc	1
+PWC	3
+pwc	2
+PwC	1
+PWC	3
+pwc	1
+PwC (PricewaterhouseCoopers)	1
+PwC (PricewaterhouseCoopers)	2
+PwC Advisory Services	1
+PwC Advisory/Strategy&	2
+PwC Advisory/Strategy&	1
+PwC Strategy	1
+pwc, accenture, deloitte, boston consulting,  mckinsy, ey, capgemini	1
+Replay	1
+Roland Berger	1
+Roland Berger	1
+rsm mcgladrey	1
+Siemens	1
+simon kucher	3
+Simon kucher	3
+simon kucher	1
+simon kucher	1
+simon kucher	1
+simon-kucher	1
+Slalom	1
+Slalom	3
+Slalom	2
+slalom	1
+Slalom	2
+slalom	1
+Strategy&	1
+Strategy&	1
+Tata	1
+Tata	1
+TATA	1
+tata	1
+TCS	1
+TCS	1
+TCS, Accenture, IBM, Infosys, Cognigent	1
+TEKSystems	1
+too many to list	1
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Total	460
+Towers Perrin	1
+Wavestone	1
+west monroe	1
+West Monroe	1
+Wipro	1
+Wipro	1
+Wipro	1
+WTW	1
+Yonder	1
+ZS Associates	1

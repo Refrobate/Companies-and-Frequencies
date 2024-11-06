@@ -1,0 +1,234 @@
+A.T. Kearney, 12
+4Flow, 1
+A&M, 1
+Acc, 1
+Accenture, 189
+Accenture , Deloitte, Kpmg, Pwc, 1
+Accenture, Avanade, E&Y, Mckinsey, Bcg, Bain, Epam, Cognizant, Deloitte, Globant, Et Al., 1
+Accenture, Deloitte, Pwc, Kpmg, Ey, Bain, Mckinsey, Bcg, 1
+Acenture, 1
+Adl, 1
+Advancy, 6
+Alix Partners, 4
+Alixpartners, 9
+Alvarez, 1
+Alvarez & Marsal, 7
+Alvarez And Marsal, 1
+Alvarez Marsal, 1
+Amazon, 1
+Anderson, 2
+Armanino, 1
+Arthur D Little, 1
+Axion, 1
+Bain, 146
+Bain & Company, 39
+Bain (Bain & Company), 4
+Bain And Company, 26
+Bain Capital Private Equity, 4
+Bain Company, 3
+Bain&Company, 1
+Bain,, 1
+Bain, Alvarez, Accenture, Ey, Mckinsey, Deliotte, 1
+Bain, Mckinsey, Bcg, Accenture, Pwc, 1
+Bain, Mckinsey, Bcg, Deloitte, Kpmg, Pwc, Arthur Anderson, 1
+Bain, Mckinsey, Ey, Deloitte, 1
+Bain, Pwc, Booz Allen, Deloitte, E&Y, Kearney, 1
+Bane And Company, 1
+Battelle, 1
+Bcg, 116
+Bcg, Mckinsey, Lek, Bain, 1
+Bcp, 1
+Bdo, 2
+Big Four, 1
+Black And Veatch, 1
+Booz, 2
+Booz Allen, 5
+Booz Allen Hamilton, 6
+Booze, 1
+Booze Allen, 1
+Boston, 1
+Boston Consulting, 8
+Boston Consulting Company, 1
+Boston Consulting Group, 91
+Boston Consulting Group (Bcg), 6
+Boston Group, 1
+Boston, Deloitte, Kpmg, Accenture, Ey, Pwc, Mckinsey, Kearney, Bain, 1
+Brevet, 1
+Burns And Mc, 1
+Capgemeni, 2
+Capgemini, 17
+Capgemini Invent, 5
+Cartesian, 1
+Centrica, 1
+Cgi, 5
+Charles River Associates, 1
+Chartis, 2
+Clearview, 1
+Cognizant, 49
+Cohn Reznick, 1
+Collinson, 1
+Collinson Grant, 3
+Davis, 1
+Delloite, 4
+Delloitte, 2
+Deloitte, 226
+Deloitte Accenture Pricewaterhousecoopers Ey Kpmg, 1
+Deloitte Consulting, 12
+Deloitte Kpmg Pwc Mckinsey Bcg Guidehouse Erm Wsp, 1
+Deloitte,, 1
+Deloitte, Bain, E&Y, Accenture, Mckinsey, Kpmg, Pwc, 1
+Deloutte, 1
+Deouitte, 1
+Digital Litmus, 1
+E & Y, 1
+E&Y, 6
+Earnst And Young, 1
+Ecg, Chartis, Kaufmanhall, Bcg. Pwc, Deloitte, Mckinsey, Bain, 1
+Efeso Management, 4
+Efeso Management Consultants, 1
+Elixirr, 5
+En, 1
+Endava, 1
+Enfuse Group, 1
+Epam, 1
+Equitable, 1
+Erm, 1
+Ernst & Young, 19
+Ernst & Young (Ey), 1
+Ernst & Young (Ey) Advisory, 1
+Ernst And Young, 6
+Ernst Young, 1
+Ey, 159
+Ey (Ernst & Young), 7
+Ey Parthenon, 1
+Ey, Bcg, Pwc, Deloitte, Mckinsey, Accenture, Bain, 1
+Ey, Parthenon, Deloitte, Mckinsey, Bcg, Kodiak, Crowe, Pwc, 1
+Ey, Pwc, Kpmg, Deloitte, Mckinsey, Bain, Bcg, Lek, Many More, 1
+Fti, 4
+Gartner, 3
+Gartner,, 1
+Gartner, Kornferry, Spencerstuart, Mckinley, 1
+Gcp, 1
+Genesis, 1
+Genesys, 1
+Globant, 1
+Goldman, 1
+Grand Thronton, 1
+Grant Thornton, 2
+Grant Thortom, 1
+Grant Thorton, 1
+Guide House, 1
+Guidehouse, 2
+Hub, 1
+Huron, 2
+Huron, Ey, Deloitte, 1
+Ibm, 79
+Ibm Consulting, 1
+Ibm Global Services, 4
+Icf, 2
+Infosys, 5
+Iqvia, Syneos Heath, Tailwind Capital, Domain Associates, 1
+Kaufman Hall, 1
+Kearney, 28
+Kearny, 1
+Korn Ferry, Fti, Bain, Bcg, Pwc, Etc., 1
+Kpmb, 1
+Kpmg, 181
+Kpmg Advisory, 4
+Kpmg Mckenzie Accenture Grant, Thorton, Eny Bain Goldman, 1
+Kpmg, Accenture, Deloitte, 1
+Kpmg, Accenture, Mckinsey, Boston Consulting,, 1
+Kyndryl, 1
+L.E.K. Consulting, 5
+Lanciaconsult, 1
+Lek, 8
+Levinson, 1
+Main, 1
+Manatt, 1
+Mbb, 1
+Mc Kinsey, 1
+Mckensey, 1
+Mckensy, Bcg, Bain, Kearney, Ey, Pwc, Kpmg, Slalom, 1
+Mckinley, 1
+Mckinnsey, 1
+Mckinsey, 200
+Mckinsey & Co , Bcg, Bain & Co, 1
+Mckinsey & Company, 20
+Mckinsey & Company, Boston Consulting Group (Bcg), Bain & Company, Deloitte Consulting, Pwc Advisory (Pricewaterhousecoopers), Ey Advisory (Ernst & Young), Accenture, 1
+Mckinsey And Company, 1
+Mckinsey Bain Bcg Cap Gemini Lek Zs Deloitte, 1
+Mckinsey Bcg Bain Deloitte Pwc Accenture, 1
+Mckinsey Bcg Deloitte Bain, 1
+Mckinsey, Accenture, Bcg, 1
+Mckinsey, Accenture, Bearing Point, Pwc, Kpmg, 1
+Mckinsey, Bain, Bcg, Bcg X, Deloitte, Accenture, 1
+Mckinsey, Bain, Bcg, Deloitte, Accenture, 1
+Mckinsey, Bain, Bcg, Ey Parthenon, Kearney, Accenture, Booz Allen Hamilton, Deloitte, Pwc, Brg, Guidehouse, 1
+Mckinsey, Bain, Cap Gemini, Kpmg, And Accenture, 1
+Mckinsey, Bcg, Accenture, Bain, Guidehouse, Chartis, Ecg, Manatt, Deloitte, Pwc,, 1
+Mckinsey, Bcg, Accenture, Deloitte, Pwc, 1
+Mckinsey, Bcg, Bain, Deloitte, Accenture, Pwc, Capgemini, 1
+Mckinsey, Bcg, Bain, Ey, Accenture, Booz Allen, Deloitte, Kpmg, Pwc, 1
+Mckinsey, Boston Consulting Group, Deloitte, P & C, Kpmg, Bain, 1
+Mckinsey, Deloitte, E&Y, Ecg, Accenture, Boston Consulting, Chartis, Etc, 1
+Mckinsey, Deloitte, E&Y, Ibm, Accenture, Bcg, 1
+Mckinsey,Bcg, Bain, Deloitte, Pwc, Ey, Kpmg, Accenture, 1
+Mercer, 5
+Metyis, 4
+Mikensy, 1
+Monitor, 1
+Moss Adams, 1
+Navigant, 1
+Ncc, 2
+Next Continent, 2
+Nextcontinent, 12
+North Highland, 104
+Nous Group, 1
+Ntt, 2
+Oc&C, 1
+Oc&C Strategy Consultants, 1
+Oliver, 1
+Oliver Wyman, 26
+Opportune, 1
+Oracle, 1
+P&C Global, 1
+P&W, 1
+P3, 1
+Paraveda, 1
+Parthenon, 1
+Persistent Systems, 1
+Point B, 1
+Price Waterhouse Coopers, 1
+Pricewater Cooper, 1
+Pricewaterhousecooper, 1
+Pricewaterhousecoopers, 7
+Pricewaterhousecoopers (Pwc), 3
+Protiviti, 4
+Protivity, 3
+Pwc, 139
+Pwc (Pricewaterhousecoopers), 3
+Pwc Advisory Services, 1
+Pwc Advisory/Strategy&, 3
+Pwc Strategy, 1
+Pwc, Accenture, Deloitte, Boston Consulting, Mckinsy, Ey, Capgemini, 1
+Replay, 1
+Roland Berger, 2
+Rsm Mcgladrey, 1
+Siemens, 1
+Simon Kucher, 9
+Simon-Kucher, 1
+Slalom, 10
+Strategy&, 2
+Tata, 4
+Tcs, 2
+Tcs, Accenture, Ibm, Infosys, Cognigent, 1
+Teksystems, 1
+Too Many To List, 1
+Total, 9200
+Towers Perrin, 1
+Wavestone, 1
+West Monroe, 2
+Wipro, 3
+Wtw, 1
+Yonder, 1
+Zs Associates, 1
